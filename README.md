@@ -1,1 +1,1 @@
-# ANALYZING-PEOPLE-S-BEHAVIOR-THROUGH-MEDIA
+The project aims to extract individual emotions and communication patterns from media, including live or uploaded videos, audio, and text. We'll analyze each module using techniques involving mathematical modeling and machine learning optimization algorithms to get the best results.
